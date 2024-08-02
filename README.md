@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jamesdevbie@gmail.com**
 
-- ⚡ Fun fact **I am not funny, working to be a PRO**
+- ⚡ Fun fact **I am not funny, working out to be a PRO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

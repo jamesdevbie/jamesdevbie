@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesdevbie" alt="jamesdevbie" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack Development**
+- 🌱 I’m currently learning **Full stack Development** with "MERN" Stack
 
-- 🤝 I’m looking for help with **Front End and Backend Technologies**
-
-- 💬 Ask me about **JS, HTML, CSS**
+- 💬 Ask me about **JS, HTML, CSS, ReactJS, Tailwind**
 
 - 📫 How to reach me **jamesdevbie@gmail.com**
 
-- ⚡ Fun fact **I am not funny, working out to be a PRO**
+- ⚡ Fun fact **I am not funny, working out to become a PRO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
